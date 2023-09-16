@@ -1,0 +1,128 @@
+*{
+   padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ body{
+    width: 1085px;
+    height: 1800.35px;
+    margin: auto;
+    background-color: #FAFAFA;
+ }
+ header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 30px;
+    font-weight: 700;
+    background-color: white;
+ }
+ .date{
+    margin-top: 50px;
+    margin-left: 40px;
+    display: flex;
+ }
+ .photo2{
+    width: 979px;
+    height: 488px;
+    padding-top: 30px;
+    display: grid;
+    margin: auto;
+   }
+   .photo33{
+      border: 2px solid none;
+    width: 309px;
+    height: 393px;
+ }
+ .photo33 p{
+   margin: 20px 0;
+ }
+ .photo3{
+    width: 309px;
+    height: 232px;
+ }
+ .photo44{
+    border: 2px solid none;
+    width: 309px;
+    height: 393px;
+ }
+ .photo44 p{
+   margin: 20px 0;
+ }
+ .photo4{
+    width: 309px;
+    height: 232px;
+   }
+ .photo55{
+    border: 2px solid none;
+    width: 309px;
+    height: 393px;
+ }
+ .photo55 p {
+   margin: 20px 0;
+}
+.photo5{
+   width: 309px;
+   height: 232px;
+}
+.container{
+   display: flex;
+   justify-content: space-around;
+   margin: auto 30px;
+}
+.HOW2{
+   top: 864px;
+   left: 121px;
+   margin: 20px 120px;
+   line-height: 30.17px;
+   text-align:justify;
+   font-size: 18.4px;
+   border: 2px solid none;
+}
+
+.last{
+   display: flex;
+   align-items: center;
+   background-color: black;
+   justify-content: center;
+   flex-direction: column;
+   margin-top: 40px;
+   color: white;
+   Width:1080px;
+   Height:80px;
+    
+ }
+ .last p{
+    line-height: 25px;
+    
+ }
+
+ .date{
+   text-align: justify;
+   padding: 0px 80px;
+ }
+ .after{
+   text-align: justify;
+   padding: 0px 122px;
+   margin-top: 20px;
+}
+.photo{
+    width: 21.25px;
+    height: 21.25px;
+}
+.mynew{
+    font-size: 36px;
+    margin-bottom: 0;
+    text-align: justify;
+    padding: 30px 120px;
+    font-weight: 700;
+    line-height: 38px;
+}
+.mynew p{
+   font-weight: 400;
+   line-height: 20px;
+}
+.rec{
+   text-align: center;
+   margin: 30px;
+}
